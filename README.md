@@ -1,6 +1,6 @@
-# Repository Template
+# Android Gradle Kotlin DSL Sample
 
-> Android Gradle Kotlin DSL Sample
+> Gradle Kotlin DSL in Android
 
 ## Usage
 
