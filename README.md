@@ -4,7 +4,7 @@
 
 ## Usage
 
-1. After clonning run `./bootstrap.sh`.
+1. After cloning run `./bootstrap.sh`.
 
 License
 -------
