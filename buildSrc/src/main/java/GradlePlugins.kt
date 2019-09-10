@@ -1,4 +1,4 @@
-object GradlePlugins {
+object GradlePlugin {
     const val android = "com.android.tools.build:gradle:3.4.2"
     const val apkSize = "com.vanniktech:gradle-android-apk-size-plugin:0.4.0"
     const val codeQualityTools = "com.vanniktech:gradle-code-quality-tools-plugin:0.18.0"
