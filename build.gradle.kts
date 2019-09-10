@@ -8,15 +8,15 @@ buildscript {
     }
 
     dependencies {
-        classpath(GradlePlugins.android)
-        classpath(GradlePlugins.apkSize)
-        classpath(GradlePlugins.codeQualityTools)
-        classpath(GradlePlugins.debLibs)
-        classpath(GradlePlugins.easyLauncher)
-        classpath(GradlePlugins.fabric)
-        classpath(GradlePlugins.googleServices)
-        classpath(GradlePlugins.kotlin)
-        classpath(GradlePlugins.playPublisher)
+        classpath(GradlePlugin.android)
+        classpath(GradlePlugin.apkSize)
+        classpath(GradlePlugin.codeQualityTools)
+        classpath(GradlePlugin.debLibs)
+        classpath(GradlePlugin.easyLauncher)
+        classpath(GradlePlugin.fabric)
+        classpath(GradlePlugin.googleServices)
+        classpath(GradlePlugin.kotlin)
+        classpath(GradlePlugin.playPublisher)
     }
 }
 
